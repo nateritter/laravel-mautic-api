@@ -15,7 +15,7 @@ then copy the Client ID and Client Secret to the application that will be using 
 
 First, you'll need to require the package with Composer:
 ```sh
-composer require princealikhan/laravel-mautic-api
+composer require nateritter/laravel-mautic-api
 ```
 Aftwards, run `composer update` from your command line.
 

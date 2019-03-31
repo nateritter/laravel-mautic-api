@@ -1,6 +1,6 @@
 {
-    "name": "princealikhan/laravel-mautic-api",
-    "description": "Free and Open Source Marketing Automation API",
+    "name": "nateritter/laravel-mautic-api",
+    "description": "Free and Open Source Marketing Automation API (updated to support Laravel 5.7 by dgtal)",
     "license": "MIT",
     "keywords": ["mautic","laravel","lumen","princealikhan","api","sync","automation","email","marketing"],
     "authors": [
@@ -22,5 +22,5 @@
         "psr-4": {
             "Princealikhan\\Mautic\\": "src/"
         }
-    }    
+    }
 }
